@@ -1,4 +1,4 @@
-# Flutter ToDo App 1.0v
+# Flutter ToDo App
 
 ## Overview
 
