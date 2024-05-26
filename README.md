@@ -16,10 +16,10 @@ The **Flutter ToDo App** is a simple, efficient, and user-friendly task manageme
 
 ## Screenshots
 
-![Home Screen](assets/images/screenshots/screenshots/1.png)
-![Add Task Screen](assets/images/screenshots/screenshots/2.png)
-![Edit Task Screen](assets/images/screenshots/screenshots/3.png)
-![Finish Task Screen](assets/images/screenshots/screenshots/4.png)
+![Home Screen](assets/images/screenshots/1.png)
+![Add Task Screen](assets/images/screenshots/2.png)
+![Edit Task Screen](assets/images/screenshots/3.png)
+![Finish Task Screen](assets/images/screenshots/4.png)
 
 ## Installation
 
@@ -62,23 +62,23 @@ To run this project locally, follow these steps:
     - Tap again to mark it as pending.
 
 ## Project Structure
-flutter-todo-app/
-|- lib/
-|- models/
-|- task_model.dart
-|- screens/
-|- home_screen.dart
-|- add_task_screen.dart
-|- edit_task_screen.dart
-|- widgets/
-|- task_list_item.dart
-|- main.dart
-|- assets/
-|- images/
-|- test/
-|- unit_tests.dart
-|- pubspec.yaml
-|- README.md
+flutter-todo-app/ <br>
+|- lib/ <br>
+|- models/ <br>
+|- task_model.dart <br>
+|- screens/ <br>
+|- home_screen.dart <br>
+|- add_task_screen.dart <br>
+|- edit_task_screen.dart <br>
+|- widgets/ <br>
+|- task_list_item.dart <br>
+|- main.dart <br>
+|- assets/ <br>
+|- images/ <br>
+|- test/ <br>
+|- unit_tests.dart <br>
+|- pubspec.yaml <br>
+|- README.md <br>
 
 ## Dependencies
 
