@@ -16,10 +16,8 @@ The **Flutter ToDo App** is a simple, efficient, and user-friendly task manageme
 
 ## Screenshots
 
-![Home Screen](assets/images/screenshots/1.png)
-![Add Task Screen](assets/images/screenshots/2.png)
-![Edit Task Screen](assets/images/screenshots/3.png)
-![Finish Task Screen](assets/images/screenshots/4.png)
+![Home Screen](assets/images/screenshots/1.png) ![Add Task Screen](assets/images/screenshots/2.png)
+![Edit Task Screen](assets/images/screenshots/3.png) ![Finish Task Screen](assets/images/screenshots/4.png)
 
 ## Installation
 
